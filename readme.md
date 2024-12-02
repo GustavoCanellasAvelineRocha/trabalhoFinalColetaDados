@@ -3,8 +3,9 @@
 Este trabalho foi realizado para analisarmos datasets com métricas e gráficos.
 
 Como rodar:
-    - Primeiro baixar os datasets utilizados.
-    - Pós isso rodar os .py na ordem que escolher, cada um possui um resultado com suas métricas.
+    
+- Primeiro baixar os datasets utilizados.
+- Pós isso rodar os .py na ordem que escolher, cada um possui um resultado com suas métricas.
 
 Datasets utilizados:
 
