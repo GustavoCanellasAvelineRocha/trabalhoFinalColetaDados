@@ -1,4 +1,4 @@
-<h1> TRABALO FINAL COLETA PREPARAÇÃO E ANÁLISE DE DADOS</h1>
+<h1> TRABALHO FINAL COLETA PREPARAÇÃO E ANÁLISE DE DADOS</h1>
 
 Este trabalho foi realizado para analisarmos datasets com métricas e gráficos.
 
